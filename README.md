@@ -2,7 +2,7 @@
 # Uber Backend Project
 
 ## Low-Level Design
-![LLD](/assets/LLD.png)
+![LLD](LLD.png)
 
 ## Overview
 This project is an Uber backend system implementation using Spring Boot, PostgreSQL, and various Spring modules. The APIs are well-documented using Swagger and Postman.
@@ -75,8 +75,8 @@ This project is an Uber backend system implementation using Spring Boot, Postgre
 - **Postman Collection:** [Link to Postman Documentation](https://documenter.getpostman.com/view/30415721/2sAYJAdxZj)
 - **Actuator:** [Link to Actuator](https://uber-i8xg.onrender.com/actuator)
 
-![Post Mappings](/assets/PostMappings.png)
-![Get Mappings](/assets/GetMappings.png)
+![Post Mappings](PostMappings.png)
+![Get Mappings](GetMappings.png)
 
 
 ## Installation
